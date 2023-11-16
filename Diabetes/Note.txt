@@ -1,0 +1,32 @@
+1) imported lyberies -
+	numpy 
+	pandas 
+	sklearn 
+
+2) Data collection - 
+		Pandas dataframe 
+
+3) Data describe-
+		describe
+		head
+		info()
+		groupby()
+		mean()
+4) standardized the data-
+		StandardScaler 
+		Sclaer.fit
+		support vector 
+
+5) split data - 
+		train data-
+		classifier.fit(X_train , Y_train )
+		test data- 
+		classifier.fit(X_test , Y_test) 
+
+6) prediction ---
+		scaler.transform 	
+		classifier.predict
+
+		
+		
+	
